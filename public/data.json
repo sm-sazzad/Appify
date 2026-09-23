@@ -1,10 +1,10 @@
 [
     {
-        "image": "https://i.pinimg.com/736x/c6/09/0d/c6090df18193e2616a6a32076883b70c.jpg",
+        "image": "https://cdn.simpleicons.org/whatsapp/25D366",
         "title": "WhatsApp Messenger",
         "companyName": "WhatsApp LLC",
         "id": 1,
-        "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and voice messages. Stay connected with people no matter where they are, safely and securely with end-to-end encryption.",
+        "description": "WhatsApp Messenger is a free messaging app for staying connected with friends and family through messages, calls, photos, videos, documents, and voice messages.",
         "size": 80,
         "reviews": "172000K",
         "ratingAvg": 4.5,
@@ -33,11 +33,11 @@
         ]
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png",
+        "image": "https://cdn.simpleicons.org/spotify/1DB954",
         "title": "Spotify: Music and Podcasts",
         "companyName": "Spotify AB",
         "id": 2,
-        "description": "Spotify gives you instant access to millions of songs, albums, and podcasts from artists all over the world. Stream your favorite tracks, discover new music, and build playlists with ease. With personalized recommendations, offline playback, and high-quality audio, Spotify makes it simple to enjoy the perfect soundtrack to your life—anytime, anywhere.",
+        "description": "Spotify gives you access to millions of songs, albums, podcasts, personalized recommendations, playlists, and high-quality audio.",
         "size": 110,
         "reviews": "32000K",
         "ratingAvg": 4.4,
@@ -66,11 +66,11 @@
         ]
     },
     {
-        "image": "https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png",
+        "image": "https://cdn.simpleicons.org/instagram/E4405F",
         "title": "Instagram",
         "companyName": "Instagram",
         "id": 3,
-        "description": "Instagram brings you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore communities, share photos and videos, and express yourself with creative tools like Reels, Stories, and filters. Build your presence, follow your interests, and make your mark online.",
+        "description": "Instagram lets you connect with friends, share photos and videos, explore communities, and discover creative content through Reels and Stories.",
         "size": 130,
         "reviews": "160000K",
         "ratingAvg": 4.2,
@@ -99,11 +99,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/db/bb/57/dbbb57e4a4dd74be71504cdbac7a3095.jpg",
+        "image": "https://cdn.simpleicons.org/tiktok/000000",
         "title": "TikTok",
         "companyName": "TikTok Pte. Ltd.",
         "id": 4,
-        "description": "TikTok is the destination for mobile videos. Create short-form videos that are exciting, spontaneous, and genuine. Whether you're a sports fan, a pet lover, or just looking for laughter, there's something for everyone on TikTok. Discover millions of creators, participate in challenges, and share your creativity with the world.",
+        "description": "TikTok is a short-form video platform where users can discover creators, participate in trends, and share creative videos.",
         "size": 180,
         "reviews": "45000K",
         "ratingAvg": 4.4,
@@ -132,11 +132,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/4a/b5/9b/4ab59bf6437538d0d99264293ef3c479.jpg",
+        "image": "https://cdn.simpleicons.org/snapchat/FFFC00",
         "title": "Snapchat",
         "companyName": "Snap Inc",
         "id": 5,
-        "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Send photos and videos that disappear after being viewed, or save memories to share later. Express yourself with filters, lenses, Bitmoji, and more. Snapchat makes everyday communication fun and fast.",
+        "description": "Snapchat lets users communicate with friends, share photos and videos, explore stories, and use creative filters and lenses.",
         "size": 95,
         "reviews": "28000K",
         "ratingAvg": 4.3,
@@ -165,11 +165,11 @@
         ]
     },
     {
-        "image": "https://png.pngtree.com/png-clipart/20221018/ourmid/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png",
+        "image": "https://cdn.simpleicons.org/youtube/FF0000",
         "title": "YouTube",
         "companyName": "Google LLC",
         "id": 6,
-        "description": "Get the official YouTube app for Android phones and tablets. See what the world is watching — from the hottest music videos to what's trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device. YouTube lets you explore endless video content tailored just for you.",
+        "description": "YouTube lets users watch videos, subscribe to channels, explore entertainment, music, gaming, news, and educational content.",
         "size": 140,
         "reviews": "145000K",
         "ratingAvg": 4.5,
@@ -198,11 +198,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/59/6d/74/596d74fed827cf406cbd2a4f0d8f00b2.jpg",
+        "image": "https://cdn.simpleicons.org/telegram/26A5E4",
         "title": "Telegram",
         "companyName": "Telegram FZ-LLC",
         "id": 7,
-        "description": "Telegram is a messaging app focused on speed and security. It's super-fast, simple, and free. You can send messages, photos, videos, and files of any type. Create groups for up to 200,000 members or channels for broadcasting to unlimited audiences. Cloud-based and encrypted, Telegram keeps your data safe while syncing seamlessly across all devices.",
+        "description": "Telegram is a fast messaging application for sending messages, photos, videos, files, creating groups, and broadcasting through channels.",
         "size": 75,
         "reviews": "22000K",
         "ratingAvg": 4.6,
@@ -231,11 +231,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/72/a0/50/72a0500ff35991d147a6b48e4bffc721.jpg",
+        "image": "https://cdn.simpleicons.org/netflix/E50914",
         "title": "Netflix",
         "companyName": "Netflix, Inc.",
         "id": 8,
-        "description": "Looking for the most talked-about TV shows and movies? They're all on Netflix. Watch award-winning series, documentaries, movies, and stand-up specials. With personalized recommendations and offline viewing, Netflix makes it easy to find your next favorite story anytime, anywhere.",
+        "description": "Netflix provides movies, TV shows, documentaries, and entertainment content with personalized recommendations and offline viewing.",
         "size": 150,
         "reviews": "25000K",
         "ratingAvg": 4.3,
@@ -264,11 +264,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/44/72/7f/44727f1cea8b888d0fd752782bf9348f.jpg",
+        "image": "https://cdn.simpleicons.org/googlemaps/4285F4",
         "title": "Google Maps",
         "companyName": "Google LLC",
         "id": 9,
-        "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods. Whether you're commuting or traveling, Google Maps helps you find the best route every time.",
+        "description": "Google Maps helps users navigate, find places and businesses, explore neighborhoods, and get real-time traffic and transit information.",
         "size": 100,
         "reviews": "160000K",
         "ratingAvg": 4.4,
@@ -297,11 +297,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg",
+        "image": "https://cdn.simpleicons.org/x/000000",
         "title": "Twitter (X)",
         "companyName": "X Corp.",
         "id": 10,
-        "description": "The X app (formerly Twitter) is the place to see what's happening. Follow your interests, join global conversations, and share your thoughts instantly. From breaking news to sports, entertainment, and politics, X connects you to the world in real-time.",
+        "description": "X is a social platform where users follow interests, join conversations, share posts, and discover real-time content from around the world.",
         "size": 85,
         "reviews": "30000K",
         "ratingAvg": 4.0,
@@ -330,11 +330,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/98/92/8c/98928c82f78bdd50c5a28d8fa4633035.jpg",
+        "image": "https://cdn.simpleicons.org/supercell/000000",
         "title": "Clash of Clans",
         "companyName": "Supercell",
         "id": 11,
-        "description": "Join millions of players worldwide as you build your village, raise a clan, and compete in epic Clan Wars! Clash of Clans is a strategic combat game where you command armies of Barbarians, Archers, and legendary heroes. Build defenses to protect your base and raid others for loot. With endless upgrades, clan events, and real-time battles, Clash of Clans delivers nonstop action and community-driven fun.",
+        "description": "Clash of Clans is a strategy game where players build villages, train armies, join clans, defend their bases, and battle other players.",
         "size": 280,
         "reviews": "65000K",
         "ratingAvg": 4.6,
@@ -363,11 +363,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/51/6a/74/516a74d6d701c86c007f668d7cf2891a.jpg",
+        "image": "https://cdn.simpleicons.org/pubg/000000",
         "title": "PUBG Mobile",
         "companyName": "Level Infinite",
         "id": 12,
-        "description": "PUBG Mobile delivers the most intense free-to-play multiplayer action on mobile. Drop into the battlefield, gear up, and fight to be the last one standing. Explore diverse maps, realistic weapons, and exciting modes like Team Deathmatch and Payload. With frequent updates and events, PUBG Mobile provides endless entertainment for competitive and casual gamers alike.",
+        "description": "PUBG Mobile is a multiplayer battle royale game featuring competitive matches, diverse maps, weapons, and multiple game modes.",
         "size": 750,
         "reviews": "46000K",
         "ratingAvg": 4.3,
@@ -396,11 +396,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/69/81/7e/69817eac50792cffdb7973074e4b5bde.jpg",
+        "image": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI=w240-h480-rw",
         "title": "Candy Crush Saga",
         "companyName": "King",
         "id": 13,
-        "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions around the world. Match colorful candies to progress through thousands of levels, each offering unique challenges and boosters. Easy to play but hard to master, Candy Crush Saga is the ultimate casual game that keeps you coming back for more delicious fun.",
+        "description": "Candy Crush Saga is a colorful puzzle game where players match candies, complete challenging levels, and use special boosters.",
         "size": 260,
         "reviews": "35000K",
         "ratingAvg": 4.6,
@@ -429,11 +429,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/b2/f8/28/b2f828513f21444829a619ce563d4d4e.jpg",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "LinkedIn",
         "companyName": "LinkedIn Corporation",
         "id": 14,
-        "description": "LinkedIn is the world's largest professional network. Connect with colleagues, discover career opportunities, and stay up to date with the latest industry trends. Build your personal brand, follow companies, and learn new skills through LinkedIn Learning. Whether you're job hunting or hiring, LinkedIn helps professionals succeed and grow together.",
+        "description": "LinkedIn is a professional networking platform for connecting with colleagues, discovering career opportunities, following companies, and learning skills.",
         "size": 120,
         "reviews": "25000K",
         "ratingAvg": 4.4,
@@ -462,11 +462,11 @@
         ]
     },
     {
-        "image": "https://i.pinimg.com/736x/52/b4/20/52b42001bcc7a0cb013c97eeb3ead223.jpg",
+        "image": "https://cdn.simpleicons.org/duolingo/58CC02",
         "title": "Duolingo: Learn Languages",
         "companyName": "Duolingo",
         "id": 15,
-        "description": "Learn a new language for free with Duolingo. Practice speaking, reading, listening, and writing in a fun, bite-sized way. Duolingo helps you master over 30 languages like Spanish, French, German, and Japanese. With gamified lessons, streak tracking, and personalized goals, Duolingo makes learning addictive and effective for everyone.",
+        "description": "Duolingo is a language learning application with gamified lessons, practice exercises, streaks, and personalized learning goals.",
         "size": 65,
         "reviews": "14000K",
         "ratingAvg": 4.7,
@@ -495,15 +495,312 @@
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/facebook",
+        "image": "https://cdn.simpleicons.org/facebook/1877F2",
         "title": "Facebook",
         "companyName": "Meta Platforms, Inc.",
         "id": 16,
-        "description": "Facebook helps you connect with friends, family, communities, and people around the world. Share photos and videos, discover interesting content, join groups, follow pages, and stay updated with conversations and events.",
-        "size": 95,
-        "reviews": "125000K",
+        "description": "Facebook is a social networking platform for connecting with friends, sharing posts, photos, videos, and discovering communities.",
+        "size": 100,
+        "reviews": "180000K",
         "ratingAvg": 4.3,
         "downloads": "5000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 6000000
+            },
+            {
+                "name": "2 star",
+                "count": 9000000
+            },
+            {
+                "name": "3 star",
+                "count": 18000000
+            },
+            {
+                "name": "4 star",
+                "count": 48000000
+            },
+            {
+                "name": "5 star",
+                "count": 99000000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/discord/5865F2",
+        "title": "Discord",
+        "companyName": "Discord Inc.",
+        "id": 17,
+        "description": "Discord is a communication platform for communities and friends with voice chat, video calls, messaging, and servers.",
+        "size": 90,
+        "reviews": "18000K",
+        "ratingAvg": 4.5,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 800000
+            },
+            {
+                "name": "3 star",
+                "count": 1700000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 10000000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/reddit/FF4500",
+        "title": "Reddit",
+        "companyName": "Reddit Inc.",
+        "id": 18,
+        "description": "Reddit is a community platform where users discuss topics, share posts, discover content, and participate in interest-based communities.",
+        "size": 85,
+        "reviews": "25000K",
+        "ratingAvg": 4.2,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1800000
+            },
+            {
+                "name": "2 star",
+                "count": 2200000
+            },
+            {
+                "name": "3 star",
+                "count": 4000000
+            },
+            {
+                "name": "4 star",
+                "count": 7000000
+            },
+            {
+                "name": "5 star",
+                "count": 10000000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/twitch/9146FF",
+        "title": "Twitch",
+        "companyName": "Twitch Interactive",
+        "id": 19,
+        "description": "Twitch is a live streaming platform focused on gaming, entertainment, creative content, and communities.",
+        "size": 95,
+        "reviews": "16000K",
+        "ratingAvg": 4.4,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700000
+            },
+            {
+                "name": "2 star",
+                "count": 1000000
+            },
+            {
+                "name": "3 star",
+                "count": 2300000
+            },
+            {
+                "name": "4 star",
+                "count": 4500000
+            },
+            {
+                "name": "5 star",
+                "count": 7500000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/github/181717",
+        "title": "GitHub",
+        "companyName": "GitHub, Inc.",
+        "id": 20,
+        "description": "GitHub is a platform for developers to host code, collaborate on projects, manage repositories, and contribute to open-source software.",
+        "size": 90,
+        "reviews": "12000K",
+        "ratingAvg": 4.6,
+        "downloads": "100M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 3500000
+            },
+            {
+                "name": "5 star",
+                "count": 6700000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/gitlab/FC6D26",
+        "title": "GitLab",
+        "companyName": "GitLab Inc.",
+        "id": 21,
+        "description": "GitLab is a DevOps platform for source code management, collaboration, CI/CD, and software development workflows.",
+        "size": 100,
+        "reviews": "6000K",
+        "ratingAvg": 4.3,
+        "downloads": "50M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 600000
+            },
+            {
+                "name": "4 star",
+                "count": 1800000
+            },
+            {
+                "name": "5 star",
+                "count": 3100000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/steam/000000",
+        "title": "Steam",
+        "companyName": "Valve Corporation",
+        "id": 22,
+        "description": "Steam is a digital gaming platform where users can discover, purchase, download, and play thousands of PC games.",
+        "size": 115,
+        "reviews": "18000K",
+        "ratingAvg": 4.5,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 900000
+            },
+            {
+                "name": "3 star",
+                "count": 2000000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 9300000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.iconscout.com/icon/free/png-512/free-xbox-logo-icon-svg-download-png-1583104.png?f=webp&w=512",
+        "title": "Xbox",
+        "companyName": "Microsoft",
+        "id": 23,
+        "description": "Xbox provides gaming experiences, digital games, entertainment, multiplayer services, and access to a large gaming community.",
+        "size": 105,
+        "reviews": "10000K",
+        "ratingAvg": 4.4,
+        "downloads": "100M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 1200000
+            },
+            {
+                "name": "4 star",
+                "count": 3000000
+            },
+            {
+                "name": "5 star",
+                "count": 4900000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/playstation/003791",
+        "title": "PlayStation",
+        "companyName": "Sony Interactive Entertainment",
+        "id": 24,
+        "description": "PlayStation is a gaming platform offering console games, digital entertainment, online multiplayer, and gaming services.",
+        "size": 110,
+        "reviews": "9000K",
+        "ratingAvg": 4.5,
+        "downloads": "100M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 900000
+            },
+            {
+                "name": "4 star",
+                "count": 2800000
+            },
+            {
+                "name": "5 star",
+                "count": 4500000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/googleplay/414141",
+        "title": "Google Play",
+        "companyName": "Google LLC",
+        "id": 25,
+        "description": "Google Play is Google's digital marketplace for discovering and downloading Android apps, games, books, movies, and other content.",
+        "size": 90,
+        "reviews": "150000K",
+        "ratingAvg": 4.3,
+        "downloads": "10000M",
         "ratings": [
             {
                 "name": "1 star",
@@ -515,139 +812,40 @@
             },
             {
                 "name": "3 star",
-                "count": 15000000
+                "count": 12000000
             },
             {
                 "name": "4 star",
-                "count": 35000000
+                "count": 40000000
             },
             {
                 "name": "5 star",
-                "count": 63000000
+                "count": 86000000
             }
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/messenger",
-        "title": "Messenger",
-        "companyName": "Meta Platforms, Inc.",
-        "id": 17,
-        "description": "Messenger makes it easy to stay connected with friends and family through instant messages, voice calls, video calls, photos, and more.",
-        "size": 75,
-        "reviews": "95000K",
-        "ratingAvg": 4.4,
+        "image": "https://cdn.simpleicons.org/android/3DDC84",
+        "title": "Android",
+        "companyName": "Google LLC",
+        "id": 26,
+        "description": "Android is a mobile operating system that powers smartphones, tablets, and other smart devices around the world.",
+        "size": 80,
+        "reviews": "70000K",
+        "ratingAvg": 4.5,
         "downloads": "5000M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 3500000
+                "count": 2000000
             },
             {
                 "name": "2 star",
-                "count": 4800000
+                "count": 3000000
             },
             {
                 "name": "3 star",
-                "count": 10000000
-            },
-            {
-                "name": "4 star",
-                "count": 28000000
-            },
-            {
-                "name": "5 star",
-                "count": 48700000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/gmail",
-        "title": "Gmail",
-        "companyName": "Google LLC",
-        "id": 18,
-        "description": "Gmail is Google's email service for sending messages, managing conversations, and organizing your inbox with powerful spam protection and smart search.",
-        "size": 70,
-        "reviews": "135000K",
-        "ratingAvg": 4.5,
-        "downloads": "10000M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 3200000
-            },
-            {
-                "name": "2 star",
-                "count": 4500000
-            },
-            {
-                "name": "3 star",
-                "count": 9000000
-            },
-            {
-                "name": "4 star",
-                "count": 35000000
-            },
-            {
-                "name": "5 star",
-                "count": 83300000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/googledrive",
-        "title": "Google Drive",
-        "companyName": "Google LLC",
-        "id": 19,
-        "description": "Google Drive lets you securely store, access, and share your files from anywhere. Upload documents, photos, videos, and other files and collaborate with others.",
-        "size": 90,
-        "reviews": "12500K",
-        "ratingAvg": 4.4,
-        "downloads": "1000M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 600000
-            },
-            {
-                "name": "2 star",
-                "count": 900000
-            },
-            {
-                "name": "3 star",
-                "count": 1800000
-            },
-            {
-                "name": "4 star",
-                "count": 4200000
-            },
-            {
-                "name": "5 star",
-                "count": 5100000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/googlechrome",
-        "title": "Google Chrome",
-        "companyName": "Google LLC",
-        "id": 20,
-        "description": "Google Chrome is a fast and secure web browser designed for browsing the internet across your devices. Sync bookmarks, passwords, and history and access modern websites.",
-        "size": 125,
-        "reviews": "58000K",
-        "ratingAvg": 4.3,
-        "downloads": "10000M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 1800000
-            },
-            {
-                "name": "2 star",
-                "count": 2800000
-            },
-            {
-                "name": "3 star",
-                "count": 7000000
+                "count": 6000000
             },
             {
                 "name": "4 star",
@@ -655,19 +853,118 @@
             },
             {
                 "name": "5 star",
-                "count": 28500000
+                "count": 41000000
             }
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/discord",
-        "title": "Discord",
-        "companyName": "Discord Inc.",
-        "id": 21,
-        "description": "Discord is a communication platform built for communities, friends, and gaming groups. Create servers, join voice channels, send messages, and share media.",
-        "size": 115,
-        "reviews": "6500K",
+        "image": "https://cdn.simpleicons.org/googlechrome/4285F4",
+        "title": "Google Chrome",
+        "companyName": "Google LLC",
+        "id": 27,
+        "description": "Google Chrome is a web browser designed for fast, secure, and convenient browsing across computers and mobile devices.",
+        "size": 95,
+        "reviews": "85000K",
         "ratingAvg": 4.4,
+        "downloads": "10000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2500000
+            },
+            {
+                "name": "2 star",
+                "count": 4000000
+            },
+            {
+                "name": "3 star",
+                "count": 9000000
+            },
+            {
+                "name": "4 star",
+                "count": 26000000
+            },
+            {
+                "name": "5 star",
+                "count": 43500000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/firefox/FF7139",
+        "title": "Firefox",
+        "companyName": "Mozilla",
+        "id": 28,
+        "description": "Firefox is a web browser focused on privacy, security, customization, and fast browsing across multiple platforms.",
+        "size": 90,
+        "reviews": "30000K",
+        "ratingAvg": 4.3,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 1200000
+            },
+            {
+                "name": "3 star",
+                "count": 3500000
+            },
+            {
+                "name": "4 star",
+                "count": 9000000
+            },
+            {
+                "name": "5 star",
+                "count": 15500000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/figma/F24E1E",
+        "title": "Figma",
+        "companyName": "Figma Inc.",
+        "id": 29,
+        "description": "Figma is a collaborative design and prototyping platform used to create interfaces, graphics, prototypes, and design systems.",
+        "size": 100,
+        "reviews": "8000K",
+        "ratingAvg": 4.6,
+        "downloads": "100M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 700000
+            },
+            {
+                "name": "4 star",
+                "count": 2500000
+            },
+            {
+                "name": "5 star",
+                "count": 4300000
+            }
+        ]
+    },
+    {
+        "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png",
+        "title": "Canva",
+        "companyName": "Canva",
+        "id": 30,
+        "description": "Canva is a graphic design platform for creating presentations, social media graphics, posters, documents, and other visual content.",
+        "size": 105,
+        "reviews": "12000K",
+        "ratingAvg": 4.7,
         "downloads": "500M",
         "ratings": [
             {
@@ -684,473 +981,11 @@
             },
             {
                 "name": "4 star",
-                "count": 1700000
+                "count": 3200000
             },
             {
                 "name": "5 star",
-                "count": 3000000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/reddit",
-        "title": "Reddit",
-        "companyName": "Reddit, Inc.",
-        "id": 22,
-        "description": "Reddit is a community-driven platform where people discuss topics, share links, post images, ask questions, and discover content from thousands of communities.",
-        "size": 105,
-        "reviews": "32000K",
-        "ratingAvg": 4.2,
-        "downloads": "100M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 1800000
-            },
-            {
-                "name": "2 star",
-                "count": 2200000
-            },
-            {
-                "name": "3 star",
-                "count": 5000000
-            },
-            {
-                "name": "4 star",
-                "count": 9000000
-            },
-            {
-                "name": "5 star",
-                "count": 14000000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/pinterest",
-        "title": "Pinterest",
-        "companyName": "Pinterest, Inc.",
-        "id": 23,
-        "description": "Pinterest is a visual discovery platform where you can find ideas for food, fashion, home design, travel, technology, and more.",
-        "size": 85,
-        "reviews": "9000K",
-        "ratingAvg": 4.5,
-        "downloads": "500M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 500000
-            },
-            {
-                "name": "2 star",
-                "count": 700000
-            },
-            {
-                "name": "3 star",
-                "count": 1200000
-            },
-            {
-                "name": "4 star",
-                "count": 2300000
-            },
-            {
-                "name": "5 star",
-                "count": 4300000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/zoom",
-        "title": "Zoom Workplace",
-        "companyName": "Zoom Video Communications",
-        "id": 24,
-        "description": "Zoom Workplace provides video meetings, online collaboration, chat, and communication tools for individuals and teams.",
-        "size": 110,
-        "reviews": "7200K",
-        "ratingAvg": 4.2,
-        "downloads": "500M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 500000
-            },
-            {
-                "name": "2 star",
-                "count": 700000
-            },
-            {
-                "name": "3 star",
-                "count": 1200000
-            },
-            {
-                "name": "4 star",
-                "count": 1900000
-            },
-            {
-                "name": "5 star",
-                "count": 2900000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/microsoftteams",
-        "title": "Microsoft Teams",
-        "companyName": "Microsoft Corporation",
-        "id": 25,
-        "description": "Microsoft Teams is a collaboration platform for chatting, meetings, file sharing, and teamwork.",
-        "size": 120,
-        "reviews": "8500K",
-        "ratingAvg": 4.4,
-        "downloads": "500M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 400000
-            },
-            {
-                "name": "2 star",
-                "count": 600000
-            },
-            {
-                "name": "3 star",
-                "count": 1200000
-            },
-            {
-                "name": "4 star",
-                "count": 2500000
-            },
-            {
-                "name": "5 star",
-                "count": 3800000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/slack",
-        "title": "Slack",
-        "companyName": "Salesforce, Inc.",
-        "id": 26,
-        "description": "Slack brings workplace communication and collaboration into organized channels. Send messages, share files, and communicate with teammates.",
-        "size": 100,
-        "reviews": "4800K",
-        "ratingAvg": 4.3,
-        "downloads": "100M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 250000
-            },
-            {
-                "name": "2 star",
-                "count": 350000
-            },
-            {
-                "name": "3 star",
-                "count": 700000
-            },
-            {
-                "name": "4 star",
-                "count": 1300000
-            },
-            {
-                "name": "5 star",
-                "count": 2200000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/notion",
-        "title": "Notion",
-        "companyName": "Notion Labs, Inc.",
-        "id": 27,
-        "description": "Notion is an all-in-one workspace for notes, documents, projects, tasks, and databases. Organize your work or collaborate with a team.",
-        "size": 85,
-        "reviews": "1800K",
-        "ratingAvg": 4.6,
-        "downloads": "50M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 90000
-            },
-            {
-                "name": "2 star",
-                "count": 130000
-            },
-            {
-                "name": "3 star",
-                "count": 250000
-            },
-            {
-                "name": "4 star",
-                "count": 500000
-            },
-            {
-                "name": "5 star",
-                "count": 830000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/trello",
-        "title": "Trello",
-        "companyName": "Atlassian",
-        "id": 28,
-        "description": "Trello is a visual project management tool that helps you organize tasks using boards, lists, and cards.",
-        "size": 75,
-        "reviews": "1500K",
-        "ratingAvg": 4.5,
-        "downloads": "50M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 80000
-            },
-            {
-                "name": "2 star",
-                "count": 110000
-            },
-            {
-                "name": "3 star",
-                "count": 220000
-            },
-            {
-                "name": "4 star",
-                "count": 420000
-            },
-            {
-                "name": "5 star",
-                "count": 670000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/canva",
-        "title": "Canva",
-        "companyName": "Canva Pty Ltd",
-        "id": 29,
-        "description": "Canva is a graphic design platform that makes it easy to create presentations, posters, social media graphics, videos, logos, and more.",
-        "size": 95,
-        "reviews": "12000K",
-        "ratingAvg": 4.7,
-        "downloads": "500M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 400000
-            },
-            {
-                "name": "2 star",
-                "count": 600000
-            },
-            {
-                "name": "3 star",
-                "count": 1100000
-            },
-            {
-                "name": "4 star",
-                "count": 2800000
-            },
-            {
-                "name": "5 star",
-                "count": 7100000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/dropbox",
-        "title": "Dropbox",
-        "companyName": "Dropbox, Inc.",
-        "id": 30,
-        "description": "Dropbox is a cloud storage service for securely storing, syncing, and sharing files across devices.",
-        "size": 90,
-        "reviews": "2500K",
-        "ratingAvg": 4.4,
-        "downloads": "500M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 150000
-            },
-            {
-                "name": "2 star",
-                "count": 220000
-            },
-            {
-                "name": "3 star",
-                "count": 400000
-            },
-            {
-                "name": "4 star",
-                "count": 700000
-            },
-            {
-                "name": "5 star",
-                "count": 1030000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/roblox",
-        "title": "Roblox",
-        "companyName": "Roblox Corporation",
-        "id": 31,
-        "description": "Roblox is an online gaming platform where players can explore millions of experiences, create games, customize avatars, and connect with friends.",
-        "size": 180,
-        "reviews": "42000K",
-        "ratingAvg": 4.4,
-        "downloads": "1000M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 2500000
-            },
-            {
-                "name": "2 star",
-                "count": 3000000
-            },
-            {
-                "name": "3 star",
-                "count": 6000000
-            },
-            {
-                "name": "4 star",
-                "count": 11000000
-            },
-            {
-                "name": "5 star",
-                "count": 19500000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/minecraft",
-        "title": "Minecraft",
-        "companyName": "Mojang Studios",
-        "id": 32,
-        "description": "Minecraft is a sandbox game where players can build, explore, craft, survive, and create their own worlds using blocks and endless creativity.",
-        "size": 650,
-        "reviews": "38000K",
-        "ratingAvg": 4.6,
-        "downloads": "1000M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 1500000
-            },
-            {
-                "name": "2 star",
-                "count": 1800000
-            },
-            {
-                "name": "3 star",
-                "count": 3500000
-            },
-            {
-                "name": "4 star",
-                "count": 9000000
-            },
-            {
-                "name": "5 star",
-                "count": 22200000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/steam",
-        "title": "Steam",
-        "companyName": "Valve Corporation",
-        "id": 33,
-        "description": "Steam is a digital gaming platform where players can discover, purchase, download, and play thousands of PC games while connecting with a large gaming community.",
-        "size": 90,
-        "reviews": "18000K",
-        "ratingAvg": 4.5,
-        "downloads": "1000M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 700000
-            },
-            {
-                "name": "2 star",
-                "count": 900000
-            },
-            {
-                "name": "3 star",
-                "count": 1800000
-            },
-            {
-                "name": "4 star",
-                "count": 4500000
-            },
-            {
-                "name": "5 star",
-                "count": 10100000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/twitch",
-        "title": "Twitch",
-        "companyName": "Twitch Interactive",
-        "id": 34,
-        "description": "Twitch is a live streaming platform where you can watch gaming, esports, music, creative content, and interact with streamers and communities.",
-        "size": 120,
-        "reviews": "16500K",
-        "ratingAvg": 4.3,
-        "downloads": "500M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 800000
-            },
-            {
-                "name": "2 star",
-                "count": 1000000
-            },
-            {
-                "name": "3 star",
-                "count": 2200000
-            },
-            {
-                "name": "4 star",
-                "count": 4200000
-            },
-            {
-                "name": "5 star",
-                "count": 8300000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/ea",
-        "title": "EA Sports",
-        "companyName": "Electronic Arts",
-        "id": 35,
-        "description": "EA Sports brings popular sports gaming experiences to players with competitive gameplay, realistic sports action, and a variety of game modes.",
-        "size": 300,
-        "reviews": "9500K",
-        "ratingAvg": 4.2,
-        "downloads": "500M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 600000
-            },
-            {
-                "name": "2 star",
-                "count": 700000
-            },
-            {
-                "name": "3 star",
-                "count": 1400000
-            },
-            {
-                "name": "4 star",
-                "count": 2500000
-            },
-            {
-                "name": "5 star",
-                "count": 4300000
+                "count": 7000000
             }
         ]
     }
