@@ -10,7 +10,7 @@ const PopularApps = async () => {
     console.log(allData)
 
     return (
-        <div className='w-[90%] mx-auto'>
+        <div id='popular' className='w-[90%] mx-auto'>
             <div className='text-center py-16 px-6 bg-purple-200'>
                 {/* Optional: Small badge/label above heading */}
                 <span className='inline-block px-4 py-1.5 mb-4 text-sm font-medium rounded-full bg-[#7d73f2]/10 text-[#7d73f2]'>

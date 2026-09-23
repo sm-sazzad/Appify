@@ -6,8 +6,8 @@ const NotFound = () => {
 
             {/* ---- Ambient Background Glows ---- */}
             <div className='absolute inset-0 overflow-hidden pointer-events-none'>
-                <div className='absolute -top-40 left-1/4 w-[500px] h-[500px] bg-[#7d73f2]/15 rounded-full blur-[120px]' />
-                <div className='absolute -bottom-40 right-1/4 w-[500px] h-[500px] bg-purple-400/10 rounded-full blur-[120px]' />
+                <div className='absolute -top-40 left-1/4 w-125 h-125 bg-[#7d73f2]/15 rounded-full blur-[120px]' />
+                <div className='absolute -bottom-40 right-1/4 w-125 h-125 bg-purple-400/10 rounded-full blur-[120px]' />
             </div>
 
             {/* ---- Dot grid ---- */}
@@ -26,7 +26,7 @@ const NotFound = () => {
 
                 {/* 404 Big Number */}
                 <div className='relative mb-6'>
-                    <h1 className='text-[120px] md:text-[180px] font-black leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-br from-[#7d73f2] via-purple-500 to-[#7d73f2] select-none'>
+                    <h1 className='text-[120px] md:text-[180px] font-black leading-none tracking-tighter text-transparent bg-clip-text bg-linear-to-br from-[#7d73f2] via-purple-500 to-[#7d73f2] select-none'>
                         404
                     </h1>
 
@@ -52,9 +52,9 @@ const NotFound = () => {
                 <div className='flex flex-col sm:flex-row items-center justify-center gap-3'>
                     <Link
                         href='/'
-                        className='group relative inline-flex items-center gap-2 py-3.5 px-8 bg-gradient-to-r from-[#7d73f2] to-purple-600 hover:from-[#6b60e8] hover:to-purple-700 rounded-2xl font-bold text-sm text-white shadow-xl shadow-[#7d73f2]/30 hover:shadow-2xl hover:shadow-[#7d73f2]/40 transition-all duration-300 hover:-translate-y-0.5 overflow-hidden w-full sm:w-auto justify-center'
+                        className='group relative inline-flex items-center gap-2 py-3.5 px-8 bg-linear-to-r from-[#7d73f2] to-purple-600 hover:from-[#6b60e8] hover:to-purple-700 rounded-2xl font-bold text-sm text-white shadow-xl shadow-[#7d73f2]/30 hover:shadow-2xl hover:shadow-[#7d73f2]/40 transition-all duration-300 hover:-translate-y-0.5 overflow-hidden w-full sm:w-auto justify-center'
                     >
-                        <span className='absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700' />
+                        <span className='absolute inset-0 bg-linear-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700' />
                         <svg className='relative w-4 h-4' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
                             <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2.5} d='M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6' />
                         </svg>

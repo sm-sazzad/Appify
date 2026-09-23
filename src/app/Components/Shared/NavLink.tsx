@@ -19,4 +19,14 @@ const NavLink = () => {
     </>);
 };
 
+const Popular = () => {
+    const pathName = usePathname();
+    return (
+        <li className={`${pathName === "/" ? "text-purple-600 font-bold" : ''} hover:text-purple-600 duration-200`}>
+            <Link href={"/"}>Popular Apps</Link>
+        </li>
+    )
+}
+
 export default NavLink;
+export { Popular };
