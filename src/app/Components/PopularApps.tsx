@@ -11,7 +11,7 @@ const PopularApps = async () => {
 
     return (
         <div className='w-[90%] mx-auto'>
-            <div className='text-center py-16 px-6 bg-gradient-to-b from-purple-50 to-white'>
+            <div className='text-center py-16 px-6 bg-purple-200'>
                 {/* Optional: Small badge/label above heading */}
                 <span className='inline-block px-4 py-1.5 mb-4 text-sm font-medium rounded-full bg-[#7d73f2]/10 text-[#7d73f2]'>
                     🔥 Trending Now
@@ -33,7 +33,7 @@ const PopularApps = async () => {
 
             <div className='grid grid-cols-4 gap-5'>
                 {
-                    allData.filter(n => n.ratingAvg >= 4.5).map(data => <AppCard key={data.id} data={data} />)
+                    allData.map(data => <AppCard key={data.id} data={data} />)
                 }
             </div>
             <div className='text-center my-5'>

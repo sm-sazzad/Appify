@@ -7,10 +7,13 @@ const NavLink = () => {
             <Link href={"/"}>Home</Link>
         </li>
         <li>
-            <Link href={"/all-apps"}>All Apps</Link>
+            <Link href={"/apps"}>All Apps</Link>
         </li>
         <li>
             <Link href={"/installed-apps"}>Installed Apps</Link>
+        </li>
+        <li>
+            <Link href={"/favourite"}>Favourite</Link>
         </li>
     </>);
 };

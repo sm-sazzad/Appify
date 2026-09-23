@@ -20,7 +20,7 @@ const AppCard = ({ data }: AppCardProps) => {
             {/* ---- Header Row ---- */}
             <div className='relative flex items-start gap-3.5 mb-4'>
                 {/* App Logo */}
-                <div className='relative w-14 h-14 rounded-2xl overflow-hidden bg-gray-50 flex-shrink-0 ring-1 ring-gray-100 group-hover:ring-[#7d73f2]/30 group-hover:scale-105 transition-all duration-300 shadow-sm'>
+                <div className='relative w-14 h-14 rounded-lg overflow-hidden bg-gray-50 flex-shrink-0 ring-1 ring-gray-100 group-hover:ring-[#7d73f2]/30 group-hover:scale-105 transition-all duration-300 shadow-sm'>
                     <Image
                         src={data.image}
                         alt={data.title}

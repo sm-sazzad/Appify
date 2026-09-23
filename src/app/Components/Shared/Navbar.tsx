@@ -1,6 +1,7 @@
 import navlogo from "@/asstes/nav.png"
 import NavLink from './NavLink';
 import Image from 'next/image';
+import { FaGithub } from "react-icons/fa";
 
 const Navbar = () => {
     const link = <NavLink />
@@ -11,7 +12,8 @@ const Navbar = () => {
                 <ul className="flex gap-4 font-semibold">
                     {link}
                 </ul>
-                <button className="py-2 px-4 bg-[#7d73f2] rounded-lg cursor-pointer font-semibold text-white">
+                <button className='group inline-flex items-center gap-2 py-2.5 px-5 bg-[#7d73f2] hover:bg-[#6b60e8] rounded-lg font-semibold text-sm text-white shadow-sm hover:shadow-lg hover:shadow-[#7d73f2]/30 transition-all duration-300 hover:-translate-y-0.5 cursor-pointer'>
+                    <FaGithub className='text-base group-hover:rotate-12 transition-transform duration-300' />
                     Connect
                 </button>
             </nav>
