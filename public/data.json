@@ -33,7 +33,7 @@
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/spotify",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png",
         "title": "Spotify: Music and Podcasts",
         "companyName": "Spotify AB",
         "id": 2,
@@ -499,7 +499,7 @@
         "title": "Facebook",
         "companyName": "Meta Platforms, Inc.",
         "id": 16,
-        "description": "Facebook helps you connect with friends, family, communities, and people around the world. Share photos and videos, discover interesting content, join groups, follow pages, and stay updated with the latest conversations and events.",
+        "description": "Facebook helps you connect with friends, family, communities, and people around the world. Share photos and videos, discover interesting content, join groups, follow pages, and stay updated with conversations and events.",
         "size": 95,
         "reviews": "125000K",
         "ratingAvg": 4.3,
@@ -532,7 +532,7 @@
         "title": "Messenger",
         "companyName": "Meta Platforms, Inc.",
         "id": 17,
-        "description": "Messenger makes it easy to stay connected with friends and family through instant messages, voice calls, video calls, photos, and more. Create group conversations, share files, send reactions, and communicate wherever you are.",
+        "description": "Messenger makes it easy to stay connected with friends and family through instant messages, voice calls, video calls, photos, and more.",
         "size": 75,
         "reviews": "95000K",
         "ratingAvg": 4.4,
@@ -565,7 +565,7 @@
         "title": "Gmail",
         "companyName": "Google LLC",
         "id": 18,
-        "description": "Gmail is Google's email service for sending messages, managing conversations, and organizing your inbox. Get powerful spam protection, smart search, labels, notifications, and seamless integration with other Google services.",
+        "description": "Gmail is Google's email service for sending messages, managing conversations, and organizing your inbox with powerful spam protection and smart search.",
         "size": 70,
         "reviews": "135000K",
         "ratingAvg": 4.5,
@@ -598,7 +598,7 @@
         "title": "Google Drive",
         "companyName": "Google LLC",
         "id": 19,
-        "description": "Google Drive lets you securely store, access, and share your files from anywhere. Upload documents, photos, videos, and other files, organize them into folders, and collaborate with others using Google's productivity tools.",
+        "description": "Google Drive lets you securely store, access, and share your files from anywhere. Upload documents, photos, videos, and other files and collaborate with others.",
         "size": 90,
         "reviews": "12500K",
         "ratingAvg": 4.4,
@@ -631,7 +631,7 @@
         "title": "Google Chrome",
         "companyName": "Google LLC",
         "id": 20,
-        "description": "Google Chrome is a fast and secure web browser designed for browsing the internet across your devices. Sync bookmarks, passwords, and history, search quickly, use tabs efficiently, and access modern websites with a smooth browsing experience.",
+        "description": "Google Chrome is a fast and secure web browser designed for browsing the internet across your devices. Sync bookmarks, passwords, and history and access modern websites.",
         "size": 125,
         "reviews": "58000K",
         "ratingAvg": 4.3,
@@ -664,7 +664,7 @@
         "title": "Discord",
         "companyName": "Discord Inc.",
         "id": 21,
-        "description": "Discord is a communication platform built for communities, friends, and gaming groups. Create servers, join voice channels, send messages, share media, and stay connected with communities around your interests.",
+        "description": "Discord is a communication platform built for communities, friends, and gaming groups. Create servers, join voice channels, send messages, and share media.",
         "size": 115,
         "reviews": "6500K",
         "ratingAvg": 4.4,
@@ -697,7 +697,7 @@
         "title": "Reddit",
         "companyName": "Reddit, Inc.",
         "id": 22,
-        "description": "Reddit is a community-driven platform where people discuss topics, share links, post images, ask questions, and discover content from thousands of communities. Follow your interests and participate in conversations with people around the world.",
+        "description": "Reddit is a community-driven platform where people discuss topics, share links, post images, ask questions, and discover content from thousands of communities.",
         "size": 105,
         "reviews": "32000K",
         "ratingAvg": 4.2,
@@ -730,7 +730,7 @@
         "title": "Pinterest",
         "companyName": "Pinterest, Inc.",
         "id": 23,
-        "description": "Pinterest is a visual discovery platform where you can find ideas for food, fashion, home design, travel, technology, and more. Save inspiring images and videos to boards and discover new ideas based on your interests.",
+        "description": "Pinterest is a visual discovery platform where you can find ideas for food, fashion, home design, travel, technology, and more.",
         "size": 85,
         "reviews": "9000K",
         "ratingAvg": 4.5,
@@ -763,7 +763,7 @@
         "title": "Zoom Workplace",
         "companyName": "Zoom Video Communications",
         "id": 24,
-        "description": "Zoom Workplace provides video meetings, online collaboration, chat, and communication tools for individuals and teams. Join virtual meetings, share your screen, collaborate with coworkers, and stay connected from anywhere.",
+        "description": "Zoom Workplace provides video meetings, online collaboration, chat, and communication tools for individuals and teams.",
         "size": 110,
         "reviews": "7200K",
         "ratingAvg": 4.2,
@@ -796,7 +796,7 @@
         "title": "Microsoft Teams",
         "companyName": "Microsoft Corporation",
         "id": 25,
-        "description": "Microsoft Teams is a collaboration platform for chatting, meetings, file sharing, and teamwork. Create teams and channels, join video meetings, share documents, and communicate with coworkers from one place.",
+        "description": "Microsoft Teams is a collaboration platform for chatting, meetings, file sharing, and teamwork.",
         "size": 120,
         "reviews": "8500K",
         "ratingAvg": 4.4,
@@ -829,7 +829,7 @@
         "title": "Slack",
         "companyName": "Salesforce, Inc.",
         "id": 26,
-        "description": "Slack brings workplace communication and collaboration into organized channels. Send messages, share files, communicate with teammates, and connect different tools and services to keep your work moving efficiently.",
+        "description": "Slack brings workplace communication and collaboration into organized channels. Send messages, share files, and communicate with teammates.",
         "size": 100,
         "reviews": "4800K",
         "ratingAvg": 4.3,
@@ -862,7 +862,7 @@
         "title": "Notion",
         "companyName": "Notion Labs, Inc.",
         "id": 27,
-        "description": "Notion is an all-in-one workspace for notes, documents, projects, tasks, and databases. Organize your personal work or collaborate with a team using flexible pages, templates, and powerful productivity tools.",
+        "description": "Notion is an all-in-one workspace for notes, documents, projects, tasks, and databases. Organize your work or collaborate with a team.",
         "size": 85,
         "reviews": "1800K",
         "ratingAvg": 4.6,
@@ -895,7 +895,7 @@
         "title": "Trello",
         "companyName": "Atlassian",
         "id": 28,
-        "description": "Trello is a visual project management tool that helps you organize tasks using boards, lists, and cards. Plan projects, track progress, assign tasks, and collaborate with teammates using a simple flexible workflow.",
+        "description": "Trello is a visual project management tool that helps you organize tasks using boards, lists, and cards.",
         "size": 75,
         "reviews": "1500K",
         "ratingAvg": 4.5,
@@ -928,7 +928,7 @@
         "title": "Canva",
         "companyName": "Canva Pty Ltd",
         "id": 29,
-        "description": "Canva is a graphic design platform that makes it easy to create presentations, posters, social media graphics, videos, logos, and more. Choose from templates and customize designs using simple drag-and-drop tools.",
+        "description": "Canva is a graphic design platform that makes it easy to create presentations, posters, social media graphics, videos, logos, and more.",
         "size": 95,
         "reviews": "12000K",
         "ratingAvg": 4.7,
@@ -961,7 +961,7 @@
         "title": "Dropbox",
         "companyName": "Dropbox, Inc.",
         "id": 30,
-        "description": "Dropbox is a cloud storage service for securely storing, syncing, and sharing files. Access your documents, photos, videos, and other files across devices and collaborate with others from anywhere.",
+        "description": "Dropbox is a cloud storage service for securely storing, syncing, and sharing files across devices.",
         "size": 90,
         "reviews": "2500K",
         "ratingAvg": 4.4,
@@ -990,52 +990,52 @@
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/vlcmediaplayer",
-        "title": "VLC Media Player",
-        "companyName": "VideoLAN",
+        "image": "https://cdn.simpleicons.org/roblox",
+        "title": "Roblox",
+        "companyName": "Roblox Corporation",
         "id": 31,
-        "description": "VLC Media Player is a free and open-source multimedia player that supports a wide variety of video and audio formats. Play local media files, network streams, and subtitles with a simple and powerful media experience.",
-        "size": 45,
-        "reviews": "1500K",
-        "ratingAvg": 4.5,
-        "downloads": "100M",
+        "description": "Roblox is an online gaming platform where players can explore millions of experiences, create games, customize avatars, and connect with friends.",
+        "size": 180,
+        "reviews": "42000K",
+        "ratingAvg": 4.4,
+        "downloads": "1000M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 70000
+                "count": 2500000
             },
             {
                 "name": "2 star",
-                "count": 100000
+                "count": 3000000
             },
             {
                 "name": "3 star",
-                "count": 180000
+                "count": 6000000
             },
             {
                 "name": "4 star",
-                "count": 350000
+                "count": 11000000
             },
             {
                 "name": "5 star",
-                "count": 800000
+                "count": 19500000
             }
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/amazon",
-        "title": "Amazon Shopping",
-        "companyName": "Amazon.com, Inc.",
+        "image": "https://cdn.simpleicons.org/minecraft",
+        "title": "Minecraft",
+        "companyName": "Mojang Studios",
         "id": 32,
-        "description": "Amazon Shopping lets you browse and purchase millions of products from your mobile device. Search for products, compare prices, read customer reviews, manage your orders, and discover deals from around the world.",
-        "size": 105,
-        "reviews": "28000K",
-        "ratingAvg": 4.3,
-        "downloads": "500M",
+        "description": "Minecraft is a sandbox game where players can build, explore, craft, survive, and create their own worlds using blocks and endless creativity.",
+        "size": 650,
+        "reviews": "38000K",
+        "ratingAvg": 4.6,
+        "downloads": "1000M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 1200000
+                "count": 1500000
             },
             {
                 "name": "2 star",
@@ -1043,27 +1043,27 @@
             },
             {
                 "name": "3 star",
-                "count": 4000000
+                "count": 3500000
             },
             {
                 "name": "4 star",
-                "count": 8000000
+                "count": 9000000
             },
             {
                 "name": "5 star",
-                "count": 13000000
+                "count": 22200000
             }
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/uber",
-        "title": "Uber",
-        "companyName": "Uber Technologies, Inc.",
+        "image": "https://cdn.simpleicons.org/steam",
+        "title": "Steam",
+        "companyName": "Valve Corporation",
         "id": 33,
-        "description": "Uber helps you get around your city with convenient transportation options. Request a ride, track your driver, estimate fares, and manage trips directly from your phone. Availability and services vary by location.",
-        "size": 80,
-        "reviews": "14500K",
-        "ratingAvg": 4.4,
+        "description": "Steam is a digital gaming platform where players can discover, purchase, download, and play thousands of PC games while connecting with a large gaming community.",
+        "size": 90,
+        "reviews": "18000K",
+        "ratingAvg": 4.5,
         "downloads": "1000M",
         "ratings": [
             {
@@ -1080,77 +1080,77 @@
             },
             {
                 "name": "4 star",
-                "count": 4000000
+                "count": 4500000
             },
             {
                 "name": "5 star",
-                "count": 7100000
+                "count": 10100000
             }
         ]
     },
     {
-        "image": "https://cdn.simpleicons.org/googlephotos",
-        "title": "Google Photos",
-        "companyName": "Google LLC",
+        "image": "https://cdn.simpleicons.org/twitch",
+        "title": "Twitch",
+        "companyName": "Twitch Interactive",
         "id": 34,
-        "description": "Google Photos helps you back up, organize, search, and share your photos and videos. Find memories quickly, create albums, and use smart organization features to keep your personal media collection easy to explore.",
-        "size": 85,
-        "reviews": "48000K",
-        "ratingAvg": 4.5,
-        "downloads": "10000M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 1200000
-            },
-            {
-                "name": "2 star",
-                "count": 1800000
-            },
-            {
-                "name": "3 star",
-                "count": 5000000
-            },
-            {
-                "name": "4 star",
-                "count": 14000000
-            },
-            {
-                "name": "5 star",
-                "count": 26000000
-            }
-        ]
-    },
-    {
-        "image": "https://cdn.simpleicons.org/onedrive",
-        "title": "Microsoft OneDrive",
-        "companyName": "Microsoft Corporation",
-        "id": 35,
-        "description": "Microsoft OneDrive is a cloud storage service for storing, syncing, and sharing your files. Access documents, photos, and other content across devices while collaborating with others using Microsoft's productivity ecosystem.",
-        "size": 90,
-        "reviews": "7500K",
-        "ratingAvg": 4.4,
+        "description": "Twitch is a live streaming platform where you can watch gaming, esports, music, creative content, and interact with streamers and communities.",
+        "size": 120,
+        "reviews": "16500K",
+        "ratingAvg": 4.3,
         "downloads": "500M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 350000
+                "count": 800000
             },
             {
                 "name": "2 star",
-                "count": 500000
+                "count": 1000000
             },
             {
                 "name": "3 star",
-                "count": 900000
+                "count": 2200000
             },
             {
                 "name": "4 star",
-                "count": 2100000
+                "count": 4200000
             },
             {
                 "name": "5 star",
-                "count": 3650000
+                "count": 8300000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.simpleicons.org/ea",
+        "title": "EA Sports",
+        "companyName": "Electronic Arts",
+        "id": 35,
+        "description": "EA Sports brings popular sports gaming experiences to players with competitive gameplay, realistic sports action, and a variety of game modes.",
+        "size": 300,
+        "reviews": "9500K",
+        "ratingAvg": 4.2,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 700000
+            },
+            {
+                "name": "3 star",
+                "count": 1400000
+            },
+            {
+                "name": "4 star",
+                "count": 2500000
+            },
+            {
+                "name": "5 star",
+                "count": 4300000
             }
         ]
     }
