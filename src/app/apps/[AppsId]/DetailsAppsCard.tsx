@@ -1,6 +1,7 @@
 import { IData } from '@/DataType/DataType'
 import Image from 'next/image'
 import Link from 'next/link'
+import InstallAppBtn, { FavouriteBtn } from './detailspageBtn/install&favouriteBtn'
 
 const DetailsAppsCard = ({ apps }: { apps: IData }) => {
     // 🛡️ Guard clauses — prevent runtime crashes
@@ -14,9 +15,9 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
         <div className='relative min-h-screen bg-[#fafafa]'>
 
             {/* ---- Ambient Background ---- */}
-            <div className='absolute inset-x-0 top-0 h-[500px] overflow-hidden pointer-events-none'>
-                <div className='absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-[#7d73f2]/10 rounded-full blur-[100px]' />
-                <div className='absolute top-20 right-1/4 w-[300px] h-[300px] bg-purple-400/10 rounded-full blur-[80px]' />
+            <div className='absolute inset-x-0 top-0 h-125 overflow-hidden pointer-events-none'>
+                <div className='absolute top-0 left-1/2 -translate-x-1/2 w-200 h-100 bg-[#7d73f2]/10 rounded-full blur-[100px]' />
+                <div className='absolute top-20 right-1/4 w-75 h-75 bg-purple-400/10 rounded-full blur-[80px]' />
             </div>
 
             <div className='relative max-w-6xl mx-auto px-6 lg:px-8 py-8'>
@@ -38,7 +39,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                 <div className='relative bg-white rounded-[28px] border border-gray-100 shadow-[0_20px_60px_-20px_rgba(125,115,242,0.25)] overflow-hidden'>
 
                     {/* Gradient banner */}
-                    <div className='relative h-40 md:h-48 bg-gradient-to-br from-[#7d73f2] via-[#8b7ef5] to-purple-600 overflow-hidden'>
+                    <div className='relative h-40 md:h-48 bg-linear-to-br from-[#7d73f2] via-[#8b7ef5] to-purple-600 overflow-hidden'>
                         {/* Radial glows */}
                         <div className='absolute -top-20 -left-20 w-80 h-80 bg-white/20 rounded-full blur-3xl' />
                         <div className='absolute -bottom-20 -right-20 w-80 h-80 bg-purple-300/30 rounded-full blur-3xl' />
@@ -53,7 +54,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                         />
 
                         {/* Diagonal shine */}
-                        <div className='absolute inset-0 bg-gradient-to-tr from-transparent via-white/5 to-white/20' />
+                        <div className='absolute inset-0 bg-linear-to-tr from-transparent via-white/5 to-white/20' />
                     </div>
 
                     {/* Content */}
@@ -63,7 +64,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                         <div className='flex flex-col md:flex-row md:items-end gap-5 -mt-16 md:-mt-20'>
 
                             {/* Logo with ring */}
-                            <div className='relative flex-shrink-0'>
+                            <div className='relative shrink-0'>
                                 <div className='relative w-28 h-28 md:w-32 md:h-32 rounded-[28px] overflow-hidden bg-white ring-[6px] ring-white shadow-2xl shadow-[#7d73f2]/20'>
                                     <Image
                                         src={apps.image}
@@ -109,7 +110,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                         {/* Meta pills */}
                         <div className='flex flex-wrap items-center gap-2 mt-7'>
                             {/* Rating */}
-                            <div className='inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full bg-gradient-to-r from-yellow-50 to-amber-50 border border-yellow-200/60 shadow-sm'>
+                            <div className='inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full bg-linear-to-r from-yellow-50 to-amber-50 border border-yellow-200/60 shadow-sm'>
                                 <svg className='w-3.5 h-3.5 text-yellow-500 fill-current' viewBox='0 0 20 20'>
                                     <path d='M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z' />
                                 </svg>
@@ -136,26 +137,11 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
 
                         {/* Actions */}
                         <div className='flex flex-wrap items-center gap-3 mt-7'>
-                            <button className='group relative inline-flex items-center gap-2.5 py-3.5 px-9 bg-gradient-to-r from-[#7d73f2] to-purple-600 hover:from-[#6b60e8] hover:to-purple-700 rounded-2xl font-bold text-sm text-white shadow-xl shadow-[#7d73f2]/30 hover:shadow-2xl hover:shadow-[#7d73f2]/40 transition-all duration-300 hover:-translate-y-0.5 cursor-pointer overflow-hidden'>
-                                <span className='absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700' />
-                                <svg className='relative w-4 h-4 group-hover:translate-y-0.5 transition-transform' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
-                                    <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2.5} d='M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1M12 4v12m0 0l-4-4m4 4l4-4' />
-                                </svg>
-                                <span className='relative'>Install Now</span>
-                            </button>
-
-                            <button
-                                aria-label='Add to wishlist'
-                                className='group w-[52px] h-[52px] inline-flex items-center justify-center rounded-2xl bg-white border border-gray-200 hover:border-[#7d73f2]/40 hover:bg-[#7d73f2]/5 transition-all duration-300 cursor-pointer shadow-sm hover:shadow-md'
-                            >
-                                <svg className='w-5 h-5 text-gray-500 group-hover:text-[#7d73f2] group-hover:scale-110 transition-all' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
-                                    <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z' />
-                                </svg>
-                            </button>
-
+                            <InstallAppBtn apps={apps} />
+                            <FavouriteBtn apps={apps} />
                             <button
                                 aria-label='Share'
-                                className='group w-[52px] h-[52px] inline-flex items-center justify-center rounded-2xl bg-white border border-gray-200 hover:border-[#7d73f2]/40 hover:bg-[#7d73f2]/5 transition-all duration-300 cursor-pointer shadow-sm hover:shadow-md'
+                                className='group w-13 h-13 inline-flex items-center justify-center rounded-2xl bg-white border border-gray-200 hover:border-[#7d73f2]/40 hover:bg-[#7d73f2]/5 transition-all duration-300 cursor-pointer shadow-sm hover:shadow-md'
                             >
                                 <svg className='w-5 h-5 text-gray-500 group-hover:text-[#7d73f2] group-hover:scale-110 transition-all' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
                                     <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z' />
@@ -172,7 +158,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                     <div className='lg:col-span-2 space-y-6'>
 
                         {/* About Card */}
-                        <div className='bg-white rounded-[24px] border border-gray-100 p-6 md:p-8 shadow-sm'>
+                        <div className='bg-white rounded-3xl border border-gray-100 p-6 md:p-8 shadow-sm'>
                             <SectionHeader
                                 icon={
                                     <svg className='w-4 h-4 text-[#7d73f2]' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
@@ -199,7 +185,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                         </div>
 
                         {/* App Information Card */}
-                        <div className='bg-white rounded-[24px] border border-gray-100 p-6 md:p-8 shadow-sm'>
+                        <div className='bg-white rounded-3xl border border-gray-100 p-6 md:p-8 shadow-sm'>
                             <SectionHeader
                                 icon={
                                     <svg className='w-4 h-4 text-[#7d73f2]' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
@@ -220,7 +206,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                                 ].map((item) => (
                                     <div
                                         key={item.label}
-                                        className='group/detail space-y-1.5 p-3 -m-3 rounded-xl hover:bg-[#7d73f2]/[0.03] transition-colors'
+                                        className='group/detail space-y-1.5 p-3 -m-3 rounded-xl hover:bg-[#7d73f2]/3 transition-colors'
                                     >
                                         <p className='text-[10px] text-gray-400 uppercase tracking-[0.08em] font-bold'>
                                             {item.label}
@@ -236,7 +222,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
 
                     {/* ---- RIGHT: RATINGS SIDEBAR ---- */}
                     <div className='lg:col-span-1'>
-                        <div className='bg-white rounded-[24px] border border-gray-100 p-6 md:p-8 lg:sticky lg:top-6 shadow-sm'>
+                        <div className='bg-white rounded-3xl border border-gray-100 p-6 md:p-8 lg:sticky lg:top-6 shadow-sm'>
 
                             <SectionHeader
                                 icon={
@@ -250,7 +236,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                             {/* Big rating */}
                             <div className='flex items-center gap-6 pb-6 border-b border-gray-100'>
                                 <div className='text-center'>
-                                    <div className='text-[64px] font-black text-transparent bg-clip-text bg-gradient-to-br from-[#7d73f2] to-purple-600 leading-none tracking-tight'>
+                                    <div className='text-[64px] font-black text-transparent bg-clip-text bg-linear-to-br from-[#7d73f2] to-purple-600 leading-none tracking-tight'>
                                         {apps.ratingAvg}
                                     </div>
                                     <p className='text-[10px] text-gray-400 uppercase tracking-wider font-bold mt-2'>
@@ -262,7 +248,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                                         {[...Array(5)].map((_, i) => (
                                             <svg
                                                 key={i}
-                                                className={`w-[18px] h-[18px] ${i < Math.round(apps.ratingAvg) ? 'text-yellow-400' : 'text-gray-200'} fill-current`}
+                                                className={`w-4.5 h-4.5 ${i < Math.round(apps.ratingAvg) ? 'text-yellow-400' : 'text-gray-200'} fill-current`}
                                                 viewBox='0 0 20 20'
                                             >
                                                 <path d='M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z' />
@@ -282,7 +268,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
                                     const starNum = rating.name.replace(' star', '')
                                     return (
                                         <div key={rating.name} className='flex items-center gap-3 group/bar'>
-                                            <span className='text-xs font-bold text-gray-600 w-7 flex-shrink-0 flex items-center gap-0.5'>
+                                            <span className='text-xs font-bold text-gray-600 w-7 shrink-0 flex items-center gap-0.5'>
                                                 {starNum}
                                                 <svg className='w-3 h-3 text-yellow-400 fill-current' viewBox='0 0 20 20'>
                                                     <path d='M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z' />
@@ -291,12 +277,12 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
 
                                             <div className='flex-1 h-2 bg-gray-100 rounded-full overflow-hidden'>
                                                 <div
-                                                    className='h-full bg-gradient-to-r from-[#7d73f2] via-purple-500 to-purple-600 rounded-full transition-all duration-700 group-hover/bar:from-[#6b60e8] group-hover/bar:to-purple-700'
+                                                    className='h-full bg-linear-to-r from-[#7d73f2] via-purple-500 to-purple-600 rounded-full transition-all duration-700 group-hover/bar:from-[#6b60e8] group-hover/bar:to-purple-700'
                                                     style={{ width: `${percent}%` }}
                                                 />
                                             </div>
 
-                                            <span className='text-[11px] text-gray-400 w-12 text-right flex-shrink-0 tabular-nums font-medium'>
+                                            <span className='text-[11px] text-gray-400 w-12 text-right shrink-0 tabular-nums font-medium'>
                                                 {formatCount(rating.count)}
                                             </span>
                                         </div>
@@ -347,7 +333,7 @@ const DetailsAppsCard = ({ apps }: { apps: IData }) => {
 // ---- Reusable Section Header ----
 const SectionHeader = ({ icon, title }: { icon: React.ReactNode; title: string }) => (
     <div className='flex items-center gap-3 mb-6'>
-        <div className='w-9 h-9 rounded-xl bg-gradient-to-br from-[#7d73f2]/15 to-purple-500/10 border border-[#7d73f2]/10 flex items-center justify-center shadow-sm'>
+        <div className='w-9 h-9 rounded-xl bg-linear-to-br from-[#7d73f2]/15 to-purple-500/10 border border-[#7d73f2]/10 flex items-center justify-center shadow-sm'>
             {icon}
         </div>
         <h2 className='text-lg font-bold text-gray-900'>

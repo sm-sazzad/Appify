@@ -20,7 +20,7 @@ const PopularApps = async () => {
                 {/* Heading */}
                 <h1 className='text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4'>
                     Popular on{' '}
-                    <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#7d73f2] to-purple-600'>
+                    <span className='text-transparent bg-clip-text bg-linear-to-r from-[#7d73f2] to-purple-600'>
                         Appify
                     </span>
                 </h1>
@@ -31,7 +31,7 @@ const PopularApps = async () => {
                 </p>
             </div>
 
-            <div className='grid grid-cols-4 gap-5'>
+            <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5'>
                 {
                     allData.map(data => <AppCard key={data.id} data={data} />)
                 }

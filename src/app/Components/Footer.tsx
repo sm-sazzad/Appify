@@ -5,9 +5,9 @@ import { FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa'
 
 const Footer = () => {
     return (
-        <footer className='relative bg-gradient-to-b from-gray-900 to-[#0f0e1a] text-gray-300'>
+        <footer className='relative bg-linear-to-b from-gray-900 to-[#0f0e1a] text-gray-300'>
             {/* Top brand accent line */}
-            <div className='h-0.5 bg-gradient-to-r from-transparent via-[#7d73f2] to-transparent' />
+            <div className='h-0.5 bg-linear-to-r from-transparent via-[#7d73f2] to-transparent' />
 
             <div className='max-w-7xl mx-auto px-6 lg:px-8 py-14'>
                 {/* ---- Main Grid ---- */}
@@ -66,11 +66,11 @@ const Footer = () => {
                         <ul className='space-y-2.5 text-sm'>
                             {[
                                 { label: 'Home', href: '/' },
-                                { label: 'Popular Apps', href: '/popular' },
+                                { label: 'Popular Apps', href: '/' },
                                 { label: 'All Apps', href: '/apps' },
-                                { label: 'Installed Apps', href: '/installed' },
+                                { label: 'Installed Apps', href: '/installed-apps' },
                             ].map((link) => (
-                                <li key={link.href}>
+                                <li key={link.label}>
                                     <Link
                                         href={link.href}
                                         className='group inline-flex items-center gap-2 text-gray-400 hover:text-[#7d73f2] transition-colors duration-200'

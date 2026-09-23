@@ -13,7 +13,7 @@ const AllApps = async () => {
                 </span>
                 <h1 className='text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-3'>
                     All{' '}
-                    <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#7d73f2] to-purple-600'>
+                    <span className='text-transparent bg-clip-text bg-linear-to-r from-[#7d73f2] to-purple-600'>
                         Apps
                     </span>
                 </h1>

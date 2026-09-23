@@ -9,7 +9,7 @@ const AppDetailSkeleton = () => {
             <div className='flex flex-col md:flex-row items-start gap-6 md:gap-8 pb-8 border-b border-gray-100'>
 
                 {/* App Logo */}
-                <div className='w-24 h-24 md:w-28 md:h-28 rounded-2xl bg-gray-100 flex-shrink-0' />
+                <div className='w-24 h-24 md:w-28 md:h-28 rounded-2xl bg-gray-100 shrink-0' />
 
                 {/* Title + Company + Meta + Actions */}
                 <div className='flex-1 min-w-0 w-full'>
@@ -47,7 +47,7 @@ const AppDetailSkeleton = () => {
                             {[...Array(3)].map((_, i) => (
                                 <div
                                     key={i}
-                                    className='aspect-[9/16] rounded-xl bg-gray-100'
+                                    className='aspect-9/16 rounded-xl bg-gray-100'
                                 />
                             ))}
                         </div>

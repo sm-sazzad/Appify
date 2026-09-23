@@ -1,19 +1,20 @@
+'use client'
 import Link from 'next/link';
-import React from 'react';
+import { usePathname } from 'next/navigation';
 
 const NavLink = () => {
+
+    const pathName = usePathname();
+
     return (<>
-        <li>
+        <li className={`${pathName === "/" ? "text-purple-600 font-bold" : ''} hover:text-purple-600 duration-200`}>
             <Link href={"/"}>Home</Link>
         </li>
-        <li>
+        <li className={`${pathName === "/apps" ? "text-purple-600 font-bold" : ''} hover:text-purple-600 duration-200`}>
             <Link href={"/apps"}>All Apps</Link>
         </li>
-        <li>
+        <li className={`${pathName === "/installed-apps" ? "text-purple-600 font-bold" : ''} hover:text-purple-600 duration-200`}>
             <Link href={"/installed-apps"}>Installed Apps</Link>
-        </li>
-        <li>
-            <Link href={"/favourite"}>Favourite</Link>
         </li>
     </>);
 };

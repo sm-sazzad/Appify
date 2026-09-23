@@ -5,6 +5,8 @@ import Navbar from "./Components/Shared/Navbar";
 import Banner from "./Components/Banner";
 import PopularApps from "./Components/PopularApps";
 import Footer from "./Components/Footer";
+import AppProvider from "@/Context/AppProvider";
+import { ToastContainer } from "react-toastify";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,12 +30,15 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Navbar />
+        <AppProvider>
+          <Navbar />
 
-        <div className="bg-purple-200">
-          {children}
-        </div>
-        <Footer />
+          <div className="bg-purple-200">
+            {children}
+          </div>
+          <Footer />
+          <ToastContainer />
+        </AppProvider>
 
       </body>
     </html>

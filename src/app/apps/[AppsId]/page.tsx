@@ -1,6 +1,6 @@
 import { getData } from '@/lib/DataFetch';
-import React from 'react';
 import DetailsAppsCard from './DetailsAppsCard';
+import { notFound } from 'next/navigation'
 
 const page = async ({ params }: { params: Promise<{ AppsId: string }> }) => {
     const { AppsId } = await params;
@@ -8,6 +8,10 @@ const page = async ({ params }: { params: Promise<{ AppsId: string }> }) => {
     const allApps = await getData();
 
     const app = allApps.find(app => app.id === Number(AppsId));
+
+    if (!app) {
+        notFound() // ← renders ./not-found.tsx (sibling file)
+    }
 
     return (
         <div>

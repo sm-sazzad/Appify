@@ -3,13 +3,13 @@ const AppCardSkeleton = () => {
         <div className='relative flex flex-col bg-white rounded-2xl p-5 border border-gray-100 shadow-[0_1px_2px_rgba(0,0,0,0.04)] overflow-hidden'>
 
             {/* ---- Shimmer Sweep Overlay ---- */}
-            <div className='absolute inset-0 -translate-x-full animate-[shimmer_1.8s_infinite] bg-gradient-to-r from-transparent via-white/60 to-transparent pointer-events-none z-10' />
+            <div className='absolute inset-0 -translate-x-full animate-[shimmer_1.8s_infinite] bg-linear-to-r from-transparent via-white/60 to-transparent pointer-events-none z-10' />
 
             {/* ---- Header Row ---- */}
             <div className='flex items-start gap-3.5 mb-4'>
                 {/* App Logo placeholder (matches real: rounded-2xl, ring) */}
-                <div className='w-14 h-14 rounded-2xl bg-gradient-to-br from-gray-100 to-gray-50 ring-1 ring-gray-100 flex-shrink-0 relative overflow-hidden'>
-                    <div className='absolute inset-0 bg-gradient-to-br from-[#7d73f2]/5 to-transparent' />
+                <div className='w-14 h-14 rounded-2xl bg-linear-to-br from-gray-100 to-gray-50 ring-1 ring-gray-100 shrink-0 relative overflow-hidden'>
+                    <div className='absolute inset-0 bg-linear-to-br from-[#7d73f2]/5 to-transparent' />
                 </div>
 
                 {/* Title + Company + Rating */}
@@ -60,7 +60,7 @@ const AppCardSkeleton = () => {
             <div className='mt-auto flex items-center justify-between gap-3'>
                 {/* Progress bar */}
                 <div className='flex-1 h-1 bg-gray-100 rounded-full overflow-hidden'>
-                    <div className='h-full w-2/3 bg-gradient-to-r from-[#7d73f2]/30 to-purple-500/20 rounded-full' />
+                    <div className='h-full w-2/3 bg-linear-to-r from-[#7d73f2]/30 to-purple-500/20 rounded-full' />
                 </div>
 
                 {/* CTA */}
