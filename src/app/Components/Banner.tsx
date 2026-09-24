@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import banner from "@/asstes/appify.jpg"
+import Link from 'next/link';
 
 const Banner = () => {
     return (
@@ -13,7 +14,7 @@ const Banner = () => {
                 />
 
                 {/* Dark Gradient Overlay for better text readability */}
-                <div className='absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-transparent'></div>
+                <div className='absolute inset-0 bg-linear-to-r from-black/70 via-black/50 to-transparent'></div>
 
                 {/* Content Container */}
                 <div className='absolute inset-0 flex items-center'>
@@ -22,7 +23,7 @@ const Banner = () => {
                             {/* Heading */}
                             <h1 className='text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6'>
                                 Discover Apps. <br />
-                                <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-700 to-purple-300'>
+                                <span className='text-transparent bg-clip-text bg-linear-to-r from-purple-700 to-purple-300'>
                                     Build Your Collection.
                                 </span>
                             </h1>
@@ -34,12 +35,16 @@ const Banner = () => {
 
                             {/* Buttons */}
                             <div className='flex flex-col sm:flex-row gap-4'>
-                                <button className='px-8 py-3 bg-gradient-to-r from-purple-800 to-[#7d73f2] text-white font-semibold rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5'>
-                                    Explore Apps
-                                </button>
-                                <button className='px-8 py-3 bg-white/10 backdrop-blur-sm text-white font-semibold rounded-lg border-2 border-white/30 hover:bg-white/20 hover:border-white/50 transition-all duration-300'>
-                                    My Apps
-                                </button>
+                                <Link href={"/apps"}>
+                                    <button className='px-8 py-3 bg-linear-to-r from-purple-800 to-[#7d73f2] text-white font-semibold rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5'>
+                                        Explore Apps
+                                    </button>
+                                </Link>
+                                <Link href={"installed-apps"}>
+                                    <button className='px-8 py-3 bg-white/10 backdrop-blur-sm text-white font-semibold rounded-lg border-2 border-white/30 hover:bg-white/20 hover:border-white/50 transition-all duration-300'>
+                                        My Apps
+                                    </button>
+                                </Link>
                             </div>
                         </div>
                     </div>
